@@ -1,7 +1,6 @@
 {
   "hosting": {
     "public": "public",
-    "site": "dhahiahscaffolds-com",
     "ignore": [
       "firebase.json",
       "**/.*",
